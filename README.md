@@ -253,10 +253,6 @@ Berikut ini adalah tampilan hasil akhir aplikasi setelah mengikuti langkah-langk
 
 ---
 
-Berikut adalah contoh README.md berdasarkan penjelasan diagram yang diberikan:
-
----
-
 # Praktikum Flutter: Navigasi Antar Halaman & Struktur Widget
 
 ## Deskripsi
@@ -299,15 +295,4 @@ Diagram ini menunjukkan bagaimana kita dapat berpindah dari halaman input tugas 
 
 Dengan penjelasan di atas, pengguna dapat memahami bagaimana alur dan struktur widget dikelola di aplikasi ini. Diagram ini membantu dalam memahami perbedaan antara halaman awal dan halaman setelah navigasi, serta pentingnya `PlanProvider` untuk sinkronisasi data di seluruh halaman.
 
----
-
----
-
-## Pengumpulan Laporan
-
-Laporan praktikum ini telah selesai dan didokumentasikan di dalam repository GitHub. Link repository atau commit dapat ditemukan [di sini](link-ke-repo).
-
----
-
-**Catatan:** Pastikan setiap bagian sudah ditambahkan sesuai kebutuhan, dan semua link di atas telah disesuaikan dengan link yang valid di repo GitHub Anda.
 
