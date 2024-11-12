@@ -231,7 +231,7 @@ Pada praktikum ini, kita mempelajari cara mengelola state pada aplikasi Flutter 
 ## Hasil Akhir
 Berikut ini adalah tampilan hasil akhir aplikasi setelah mengikuti langkah-langkah di praktikum ini.
 
-![hasil akhir praktikum](assets/3.png)
+![hasil akhir praktikum](assets/3..png)
 ---
 
 ## Langkah-Langkah Praktikum
